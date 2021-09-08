@@ -1,8 +1,8 @@
 # NextJS Boilerplate
 
 ### Stack:
-• NextJS + Typescript
-• StyledComponents
-• Jest + Testing-library-react
-• Redux-toolkit
-• Eslint + Prettier
+• NextJS + Typescript<br />
+• StyledComponents<br />
+• Jest + Testing-library-react<br />
+• Redux-toolkit<br />
+• Eslint + Prettier<br />
